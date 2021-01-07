@@ -1,2 +1,2 @@
 # MovieRental
-Implemented Sample REST Api for a movie rental system.
+Implemented REST Api Samples for a movie rental system.
